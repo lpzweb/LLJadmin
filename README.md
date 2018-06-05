@@ -1,11 +1,11 @@
-<div align="center">
+﻿<div align="center">
 <p><img width="200" src="https://github.com/vue-bulma/vue-admin/raw/master/client/assets/logo@2x.png"></p>
 
 <h1>Vue Admin</h1>
 
 <p>
   <strong>Vue Admin Panel Framework</strong>,
-  <a href="https://admin.vuebulma.com">Live Demo</a>
+  <a href="http://marting424.gotoip2.com/admin/">Live Demo</a>
 </p>
 
 <p>
