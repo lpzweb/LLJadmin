@@ -1,0 +1,6 @@
+.flex{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
+.flex-justify{-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}
+.flex-y{ -webkit-box-align:center;-moz-box-align:center;-ms-flex-align:center;-webkit-align-items:center;align-items:center;}
+.flex-x{-webkit-box-pack: center;-moz-box-pack: center;-ms-flex-pack: center;-webkit-justify-content: center;justify-content:center;}
+.flex-UpwentoDo{-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;-webkit-flex-direction:column;direction:column;}
+.flex-DowentoUp{-webkit-flex-direction:column-reverse;-moz-flex-direction:column-reverse;-ms-flex-direction:column-reverse;-webkit-flex-direction:column-reverse;direction:column-reverse;}
